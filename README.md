@@ -14,29 +14,13 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### <img src="https://img.shields.io/badge/-●-160726?style=flat-square&logoColor=A855F7" height="18"/> Who we are
+### <img src="https://img.shields.io/badge/-●-160726?style=flat-square&logoColor=A855F7" height="18"/> About Kyronix Headquarters
 
-Kyronix Headquarters is a small independent studio. We take projects from **idea → shipped product** — websites, bots, SaaS tools, automation. We don't do half-finished work.
+Kyronix Headquarters is a small independent studio based in the United Kingdom, led by **Kumatan**. We take projects from **idea → shipped product** — full‑stack websites, custom Discord bots, SaaS platforms with auth, billing, dashboards and APIs, plus backend automation and internal tools. No half‑finished work, ever. We build in public, ship fast with AI‑assisted workflows, and run a small coding team out of the UK.
 
-Led by **Kumatan**, running a small coding team out of United Kingdom, building in public and shipping fast with AI-assisted workflows.
-
-</td>
-<td valign="top" width="50%">
-
-### <img src="https://img.shields.io/badge/-●-160726?style=flat-square&logoColor=A855F7" height="18"/> What we build
-
-- Full-stack websites & web apps
-- Custom bots for real communities
-- SaaS platforms — auth, billing, dashboards, APIs
-- Backend automation & internal tools
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/divider.svg" width="100%" />
 
