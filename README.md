@@ -5,8 +5,8 @@
 <br/>
 
 <a href="https://discord.gg/rZd7RjTztJ"><img src="https://img.shields.io/badge/DISCORD-160726?style=for-the-badge&logo=discord&logoColor=A855F7" /></a>
-<a href="https://www.youtube.com/@kyronixstudio"><img src="https://img.shields.io/badge/YOUTUBE-160726?style=for-the-badge&logo=youtube&logoColor=A855F7" /></a>
-<a href="https://github.com/Kyronixstudio"><img src="https://komarev.com/ghpvc/?username=Kyronixstudio&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS&labelColor=160726" /></a>
+<a href="https://www.youtube.com/@kumatanlogar"><img src="https://img.shields.io/badge/YOUTUBE-160726?style=for-the-badge&logo=youtube&logoColor=A855F7" /></a>
+<a href="https://github.com/kumatanlogar"><img src="https://komarev.com/ghpvc/?username=kumatanlogar&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS&labelColor=160726" /></a>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 Kyronix Headquarters is a small independent studio. We take projects from **idea → shipped product** — websites, bots, SaaS tools, automation. We don't do half-finished work.
 
-Led by **Paradox**, running a small coding team out of India, building in public and shipping fast with AI-assisted workflows.
+Led by **Kumatan**, running a small coding team out of United Kingdom, building in public and shipping fast with AI-assisted workflows.
 
 </td>
 <td valign="top" width="50%">
@@ -77,7 +77,6 @@ Got a project in mind? Drop us a message on Discord before anything else.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/footer.svg" width="100%" />
 
 <div align="center">
 <sub>© 2026 Kumatanlogar Developments — All rights reserved · <a href="./LICENSE">LICENSE</a></sub>
