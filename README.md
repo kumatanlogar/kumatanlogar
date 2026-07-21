@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/header.svg" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Idea+%E2%86%92+shipped+product.+No+half-finished+work.;Full-stack+builds%2C+clean+code%2C+real+products.;Discord+bots%2C+SaaS+platforms%2C+automation.;Vibe+coding+with+AI%2C+shipping+for+real." />
 
 <br/>
@@ -56,29 +54,14 @@ Led by **Paradox**, running a small coding team out of India, building in public
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,sqlite,aws,azure,gcp,docker,kubernetes,nginx,git,github,linux,vscode,figma&theme=dark" />
 
-## Discord Bot Development
-
-<a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-160726?style=for-the-badge&logo=discorddotjs&logoColor=A855F7" /></a>
-<a href="https://discordpy.readthedocs.io/"><img src="https://img.shields.io/badge/Discord.py-160726?style=for-the-badge&logo=python&logoColor=A855F7" /></a>
-<a href="https://docs.nextcord.dev/"><img src="https://img.shields.io/badge/Nextcord-160726?style=for-the-badge&logo=discord&logoColor=A855F7" /></a>
-<a href="https://jda.wiki/"><img src="https://img.shields.io/badge/JDA%20(Java)-160726?style=for-the-badge&logo=java&logoColor=A855F7" /></a>
-<a href="https://github.com/abalabahaha/eris"><img src="https://img.shields.io/badge/Eris-160726?style=for-the-badge&logo=discord&logoColor=A855F7" /></a>
-<a href="https://lavalink.dev/"><img src="https://img.shields.io/badge/Lavalink-160726?style=for-the-badge&logo=java&logoColor=A855F7" /></a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/divider.svg" width="100%" />
-
-<div align="center">
-
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kyronixstudio&show_icons=true&theme=dark&hide_border=true&bg_color=160726&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&border_radius=10" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyronixstudio&layout=compact&theme=dark&hide_border=true&bg_color=160726&title_color=C084FC&text_color=E9D5FF&langs_count=8&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=kumatanlogar&show_icons=true&theme=dark&hide_border=true&bg_color=160726&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumatanlogar&layout=compact&theme=dark&hide_border=true&bg_color=160726&title_color=C084FC&text_color=E9D5FF&langs_count=8&border_radius=10" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=Kyronixstudio&theme=highcontrast&hide_border=true&background=160726&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A855F7&border_radius=10" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyronixstudio&bg_color=160726&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumatanlogar&bg_color=160726&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" width="90%" />
 
 </div>
 
@@ -86,7 +69,7 @@ Led by **Paradox**, running a small coding team out of India, building in public
 
 <div align="center">
 
-## Work With Us
+## Work With Me
 
 Got a project in mind? Drop us a message on Discord before anything else.
 
@@ -97,5 +80,5 @@ Got a project in mind? Drop us a message on Discord before anything else.
 <img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/footer.svg" width="100%" />
 
 <div align="center">
-<sub>© 2026 Kyronix Headquarters — All rights reserved · <a href="./LICENSE">LICENSE</a></sub>
+<sub>© 2026 Kumatanlogar Developments — All rights reserved · <a href="./LICENSE">LICENSE</a></sub>
 </div>
