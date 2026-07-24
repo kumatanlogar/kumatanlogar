@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&lines=Idea+%E2%86%92+shipped+product.+No+half-finished+work.;Full-stack+builds%2C+clean+code%2C+real+products.;Discord+bots%2C+SaaS+platforms%2C+automation.;Vibe+coding+with+AI%2C+shipping+for+real." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&height=60&lines=From+idea+to+profit+—+we+build+and+scale.;Full-stack+dev%2C+SaaS%2C+marketing+%26+business.;Digital+products%2C+communities%2C+automation.;Quality+work%2C+never+disappoint.+Ever." />
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/-●-0D1117?style=flat-square&logoColor=4FC3F7" height="18"/> About Kyronix Headquarters
+### <img src="https://img.shields.io/badge/-●-0D1117?style=flat-square&logoColor=4FC3F7" height="18"/> About Kumatanlogar Developments
 
-Kyronix Headquarters is a small independent studio based in the United Kingdom, led by **Kumatan**. We take projects from **idea → shipped product** — full‑stack websites, custom Discord bots, SaaS platforms with auth, billing, dashboards and APIs, plus backend automation and internal tools. No half‑finished work, ever. We build in public, ship fast with AI‑assisted workflows, and run a small coding team out of the UK.
+I'm **Kumatan**, a solo developer and digital entrepreneur based in the United Kingdom. I help businesses and creators build online — from full-stack development and SaaS platforms to marketing, automation, and community growth. I do SMMA-style work: development, marketing strategy, and business systems all in one. Whether it's a gaming website, a business product, or a complete digital ecosystem, I deliver quality work that never disappoints. It's just me — one person, focused on results.
 
 </div>
 
@@ -46,7 +46,7 @@ Kyronix Headquarters is a small independent studio based in the United Kingdom, 
 </div>
 
 <div align="center" style="width: 100%;">
-  <img src="https://streak-stats.demolab.com/?user=Kyronixstudio&theme=highcontrast&hide_border=true&background=0D1117&ring=4FC3F7&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=81D4FA&dates=4FC3F7&border_radius=10" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=kumatanlogar&theme=highcontrast&hide_border=true&background=0D1117&ring=4FC3F7&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=81D4FA&dates=4FC3F7&border_radius=10" width="100%" />
 </div>
 
 <div align="center" style="width: 100%;">
