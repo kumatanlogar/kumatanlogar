@@ -1,11 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&width=750&height=60&lines=From+idea+to+profit+%E2%80%94+we+build+and+scale.;Digital+products%2C+communities%2C+automation.;One+person%2C+quality+work%2C+real+impact.;Full-stack+dev%2C+SaaS%2C+marketing+%26+business.;Helping+others+build+and+grow+online.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&vCenter=true&width=435&lines=From+idea+to+profit+%E2%80%94+we+build+and+scale.;Digital+products%2C+communities%2C+automation.;One+person%2C+quality+work%2C+real+impact.)](https://git.io/typing-svg)
 <br/>
-<a href="https://discord.gg/rZd7RjTztJ"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=4FC3F7" /></a>
-<a href="https://www.youtube.com/@kumatanlogar"><img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=4FC3F7" /></a>
-<a href="https://github.com/kumatanlogar"><img src="https://komarev.com/ghpvc/?username=kumatanlogar&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS&labelColor=0D1117" /></a>
-
+<br/>
+<div align="center">
+  <a href="https://discord.gg/rZd7RjTztJ"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=4FC3F7" /></a>
+  <a href="https://www.youtube.com/@kumatanlogar"><img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=4FC3F7" /></a>
+  <a href="https://github.com/kumatanlogar"><img src="https://komarev.com/ghpvc/?username=kumatanlogar&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS&labelColor=0D1117" /></a>
+</div>
 </div>
 
 <img src="https://raw.githubusercontent.com/Kyronixstudio/Kyronixstudio/main/divider.svg" width="100%" />
@@ -16,7 +18,7 @@
 
 ### <img src="https://img.shields.io/badge/-●-0D1117?style=flat-square&logoColor=4FC3F7" height="18"/> About Kumatanlogar Developments
 
-I'm **Kumatan**, a solo developer and digital entrepreneur based in the United Kingdom. I build and scale online businesses — from full-stack development and SaaS platforms to marketing, automation, and community growth. I combine SMMA-style work with development expertise: strategy, systems, and execution all in one. Whether it's a gaming website, a business product, or a complete digital ecosystem, I deliver quality work and real impact. It's just me — one person, focused on results.
+I'm **Kumatan**, a solo developer and digital entrepreneur based in the United Kingdom. I build and scale online businesses — from full-stack development and SaaS platforms to marketing, automation, and community growth. I combine SMMA-style work with development expertise: strategy, systems, and execution all in one. Whether it's a gaming website, a business product, or a complete digital ecosystem, I deliver quality work and real impact.
 
 </div>
 
