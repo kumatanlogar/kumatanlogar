@@ -18,7 +18,7 @@
 
 ### <img src="https://img.shields.io/badge/-●-0D1117?style=flat-square&logoColor=4FC3F7" height="18"/> About Kumatanlogar Developments
 
-I'm **Kumatan**, a solo developer and digital entrepreneur based in the United Kingdom. I build and scale online businesses — from full-stack development and SaaS platforms to marketing, automation, and community growth. I combine SMMA-style work with development expertise: strategy, systems, and execution all in one. Whether it's a gaming website, a business product, or a complete digital ecosystem, I deliver quality work and real impact.
+I'm **Kumatan**, a solo developer and digital entrepreneur based in the United Kingdom. I build and scale online businesses — from full-stack development and SaaS platforms to marketing, automation, and community growth. I combine SMMA with development expertise: strategy, systems, and execution all in one. Whether it's a gaming website, a business product, or a complete digital ecosystem, I deliver quality work and real impact.
 
 </div>
 
