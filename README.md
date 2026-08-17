@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <div align="center">
-  <a href="https://discord.gg/rZd7RjTztJ"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=4FC3F7" /></a>
+  <a href="https://discord.gg/PEsrHVAbst"><img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=4FC3F7" /></a>
   <a href="https://www.youtube.com/@kumatanlogar"><img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=4FC3F7" /></a>
   <a href="https://github.com/kumatanlogar"><img src="https://komarev.com/ghpvc/?username=kumatanlogar&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS&labelColor=0D1117" /></a>
 </div>
