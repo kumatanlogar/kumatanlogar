@@ -109,7 +109,7 @@ I'm **Kumatan**, a solo developer and digital entrepreneur based in the United K
 
 Got a project in mind? Drop me a message on Discord.
 
-<a href="https://discord.gg/rZd7RjTztJ"><img src="https://img.shields.io/badge/JOIN%20MY%20DISCORD-0288D1?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/PEsrHVAbst"><img src="https://img.shields.io/badge/JOIN%20MY%20DISCORD-0288D1?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
 
